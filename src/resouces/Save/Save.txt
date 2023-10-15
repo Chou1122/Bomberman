@@ -1,0 +1,7 @@
+1 level
+1 fire
+1 maxBombs
+3 speed
+0 score
+0 scoreLive
+3 live
