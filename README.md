@@ -1,5 +1,6 @@
 # Bomberman
 ***
+Thuyết trình về game: https://youtu.be/ms7E7oaMcDQ
 ## Mô tả
 Game Bomberman viết bằng ngôn ngữ Java
 ***
@@ -30,3 +31,5 @@ Game Bomberman viết bằng ngôn ngữ Java
     - ![](/src/resouces/sprites/powerup_speed.png) `Speed Item`: 
 - Game có thể lưu lại màn chơi khi tắt
 - Chúc năng Ranking lưu lại tên của 5 người chơi có điểm cao nhất
+
+
