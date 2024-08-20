@@ -31,5 +31,6 @@ Game Bomberman viết bằng ngôn ngữ Java
     - ![](/src/resouces/sprites/powerup_speed.png) `Speed Item`: Thêm 1 tốc chạy
 - Game có thể lưu lại màn chơi khi tắt
 - Chúc năng Ranking lưu lại tên của 5 người chơi có điểm cao nhất
+- Link Repo quá trình làm game hồi còn học: https://github.com/21020325-trinhhuyhoang/Bomberman
 
 
